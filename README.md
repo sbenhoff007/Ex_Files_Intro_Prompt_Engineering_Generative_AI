@@ -1,1 +1,2 @@
 # Ex_Files_Intro_Prompt_Engineering_Generative_AI
+This repo includes the exercise files for the [Introduction to Prompt Engineering for Generative AI](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fintroduction-to-prompt-engineering-for-generative-ai%3Ftrk%3Dshare_ent_url%26shareId%3DgKeIqGRNSMS85sVXJIXseg%253D%253D) LinkedIn Learning course.
